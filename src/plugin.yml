@@ -1,0 +1,5 @@
+name: Presets
+version: 1.0.3
+main: io.chazza.presets.Presets
+author: Chazmondo
+softdepend: [MVdWPlaceholderAPI, PlaceholderAPI]

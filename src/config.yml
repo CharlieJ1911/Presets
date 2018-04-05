@@ -1,0 +1,32 @@
+# Presets
+# Developer: Chazmondo
+
+default:
+  primary: YELLOW
+  secondary: GOLD
+
+# Admin Prefixes - Used for Messages
+# & Default for Placeholders
+
+message:
+  reloaded: "&aConfig Reloaded."
+  permission: "&3No Permission."
+  #
+  selected: "&7Selected &f%name% &7Preset."
+  invalid: "&cInvalid Preset."
+  default: "&7Reset Preset!"
+  #
+  title: "Click on any preset listed below to activate it."
+
+# Chat Colors
+# Use: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/ChatColor.html
+preset:
+  "Blue":
+    primary: AQUA
+    secondary: DARK_BLUE
+  "Green":
+    primary: GREEN
+    secondary: DARK_GREEN
+  "Purple":
+    primary: LIGHT_PURPLE
+    secondary: DARK_PURPLE
